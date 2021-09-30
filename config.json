@@ -1,16 +1,16 @@
 {
-    "token":"ODQ3NTUzMTQ1MzU2OTQzNDIy.YK_vYA.5EF3R2MGHgvxFOQN7OdAf_VW7sk",
+    "token":"TOKEN",
 
-    "ticketCategoryID":"872111749392920617",
+    "ticketCategoryID":"CATAGORY ID",
 
-    "modmailServerId":"807943060829896704",
+    "modmailServerId":"SERVER ID",
 
-    "thumb":"https://yt3.ggpht.com/Op8RuzKkP03OAJMjE89RpgbnMdpy8UfqZfORNH0PciUEyUKAmapGkhbV3WBmPr4hzWnhRWTJorg=s88-c-k-c0x00ffffff-no-rj",
+    "thumb":"THUMBNAIL",
 
-    "modmailLogChannelId":"878322866515476481",
+    "modmailLogChannelId":"LOG CHANNEL ID",
 
-    "mainServerId":"807943060829896704",
+    "mainServerId":"MAIN SERVER ID",
 
-    "modMailRole": "892856680654708787"
+    "modMailRole": "MODMAIL ROLE"
 
 }
