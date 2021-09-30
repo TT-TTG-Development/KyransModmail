@@ -69,4 +69,4 @@ If there are any major issues that you need fixed ASAP, join the support server:
  [WIP, will be added soon!] 
 
 
-send freund req to DuckMan#3978 or join = https://discord.gg/cHuNeHbT7D
+ Join https://discord.gg/CnWEcQsQAs
