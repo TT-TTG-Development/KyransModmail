@@ -1,8 +1,8 @@
-# EZ Modmail
+# Kyran's Modmail
 
 ![](https://img.shields.io/badge/Discord%20Bot-discord.js-9cf)
 
-EZ Modmail is an open-source Discord modmail bot designed for individual servers, with a quick and easy setup process that should get your new modmail bot running in no time!
+Kyran's Modmail is an open-source Discord modmail bot designed for individual servers, with a quick and easy setup process that should get your new modmail bot running in no time!
 
 
 ![mmChat](https://cdn.discordapp.com/attachments/764224430649376769/773321003916460082/unknown.png)
