@@ -8,13 +8,13 @@ K-Modmail is an open-source Discord modmail bot designed for individual servers,
 
 
 ![mmChat](https://cdn.discordapp.com/attachments/764224430649376769/773321003916460082/unknown.png)
-###### Above: Closed Pre-Release version, some colors have been changed for the final release.
+###### Above: Closed Pre-Release version, some colors/text have been heavily edited for the final release. 
 ## Installation
 
 ### Requirements
 - Node.JS installed 
 
-- Discord.JS library installed
+- Discord.JS 12.5.3 library installed
 
 - A Discord Bot Application*
 
