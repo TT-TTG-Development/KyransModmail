@@ -1,8 +1,10 @@
-# Kyran's Modmail
+# K-Modmail
 
 ![](https://img.shields.io/badge/Discord%20Bot-discord.js-9cf)
 
-Kyran's Modmail is an open-source Discord modmail bot designed for individual servers, with a quick and easy setup process that should get your new modmail bot running in no time!
+K-Modmail is an open-source Discord modmail bot designed for individual servers, with a quick and easy setup process that should get your new modmail bot running in no time!
+
+NOTE: THIS IS A VERSION INTENDED FOR MY [DISCORD SERVER](https://discord.gg/CnWEcQsQAs), SO CHANGE THE CODE TO YOUR LIKING
 
 
 ![mmChat](https://cdn.discordapp.com/attachments/764224430649376769/773321003916460082/unknown.png)
@@ -69,4 +71,4 @@ If there are any major issues that you need fixed ASAP, join the support server:
  [WIP, will be added soon!] 
 
 
- Join https://discord.gg/CnWEcQsQAs
+ For Help Join https://discord.gg/CnWEcQsQAs
