@@ -71,4 +71,4 @@ If there are any major issues that you need fixed ASAP, join the support server:
  [WIP, will be added soon!] 
 
 
- For Help Join https://discord.gg/CnWEcQsQAs
+ For Help Join [My Discord Server](https://discord.gg/CnWEcQsQAs)
