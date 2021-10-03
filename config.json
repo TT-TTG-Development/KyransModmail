@@ -1,16 +1,13 @@
 {
-    "token":"TOKEN",
+    "token":"YOUR BOT TOKEN HERE",
 
-    "ticketCategoryID":"CATAGORY ID",
+    "ticketCategoryID":"THE ID OF THE CATEGORY FOR TICKETS TO BE OPENED (MUST BE IN MODMAIL SERVER!)",
 
-    "modmailServerId":"SERVER ID",
+    "modmailServerId":"ID OF THE MODMAIL SERVER",
 
-    "thumb":"THUMBNAIL",
+    "thumb":"LINK TO THE IMAGE TO BE USED FOR MODMAIL EMBEDS",
 
-    "modmailLogChannelId":"LOG CHANNEL ID",
+    "modmailLogChannelId":"ID OF THE LOGGING CHANNEL",
 
-    "mainServerId":"MAIN SERVER ID",
-
-    "modMailRole": "MODMAIL ROLE"
-
+    "mainServerId":"ID OF THE MAIN SERVER"
 }
