@@ -10,11 +10,11 @@ app.listen(3000, () => {
 })
 const Discord = require('discord.js');
 const client = new Discord.Client();
-const { token,thumb,modmailServerId,ticketCategoryID,modmailLogChannelId,mainServerId,modMailRole } = require('./config.json');
+const { token,thumb,modmailServerId,ticketCategoryID,modmailLogChannelId,mainServerId } = require('./config.json');
 
 var prefix="!!";
 client.once('ready', () => {
-     console.log('Modmail System 9.6.15 Loaded Successfully!');
+     console.log('Ready');
 }); 
 
 let rList = {}
